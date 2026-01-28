@@ -70,6 +70,18 @@ education:
     institution: NIT Surathkal
     start: 2012-07-23
     end: 2016-05-31
+    summary: |
+      I completed my Bachelor of Technology in <b>Mechanical Engineering</b> at the <b>National Institute of Technology Karnataka (NITK), Surathkal</b>.
+      My final year project focused on the <b>semi-active vibration control of a sandwich beam</b> with a <b>Magnetorheological Elastomer (MRE)</b> core.
+      I led the <b>design</b>, <b>fabrication</b>, and <b>experimental characterization</b> of these adaptive structures, which utilize smart materials to enable real-time tuning of structural stiffness and damping properties.
+      <br><br>
+      During this project, I developed <b>system models</b> to predict the dynamic response of composite beams under varying magnetic field intensities.
+      I conducted <b>experimental validation using LabVIEW-integrated data acquisition</b>, demonstrating that the system’s <b>natural frequencies</b> could be actively shifted.
+      This work provided a viable solution for tunable vibration isolation, offering significant applications in aerospace and high-precision mechanical systems.
+    button:
+      text: Download report
+      url: /research/btech/project/btech-major-project-report.pdf
+      icon: hero/arrow-down-tray
 
 experience:
   - role: Postdoctoral Researcher
