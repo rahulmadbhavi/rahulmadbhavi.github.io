@@ -10,8 +10,8 @@ name:
   pronouns: he/him
 postnominals:
   - PhD
-status:
-  icon: "☕️"
+#status:
+#  icon: "☕️"
 role: Postdoctoral Researcher
 bio: |
   Rahul Madbhavi is a Postdoctoral Researcher and NSF EPSCoR REI Co-PI at Kansas State University specializing in the resilience of interdependent critical infrastructure.
@@ -154,8 +154,13 @@ languages:
     label: Fluent
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Keshav Rangnath Excellence in Research Award
+    awarder: IIT Madras
+    date: "2023-04-05"
+    summary: |
+      The Keshav Rangnath Excellence in Research Award is a premier recognition at the Indian Institute of Technology Madras, established to honor doctoral and master’s scholars who demonstrate exceptional research prowess.
+      Selection is conducted by a specialized faculty committee that evaluates the technical rigor, originality, and global impact of a scholar’s peer-reviewed journal publications and overall dissertation work.
+      <br><br>
+      I was awarded this honor for my pioneering work on advanced estimation strategies for sparsely observed cyber-physical systems.
+      This recognition was due to my contributions to establishing situational awareness frameworks for smart grids and water networks, as well as my sustained record of high-impact research published in top-tier international journals.
     icon: hero/trophy
