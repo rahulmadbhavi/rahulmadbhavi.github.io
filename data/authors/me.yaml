@@ -103,10 +103,23 @@ experience:
     org: Kansas State University
     start: 2019-05-01
     end: 2019-07-01
+    summary: |
+      I served as a <b>Visiting Scholar</b> at <b>Kansas State University</b>, where I collaborated with <b>Dr. Balasubramaniam Natarajan</b> to advance the mathematical foundations of situational awareness in power distribution grids.
+      My research during this period focused on developing <b>sparsity-aware state estimation frameworks</b>, specifically pioneering <b>tensor completion-based approaches</b> to address the challenges of <b>low-observability and missing data</b> in modernized grids.
+      <br><br>
+      This collaboration resulted in <b>high-impact publications</b> in <b>IEEE Transactions on Industrial Informatics</b> and presentations at <b>2020 IEEE PES Innovative Smart Grid Technologies Conference (ISGT)</b>, where we demonstrated that leveraging the underlying multi-dimensional structure of grid data significantly improves voltage estimation accuracy.
+      By integrating advanced mathematical frameworks with models from power systems engineering, I developed robust methodologies that ensure system awareness despite limited sensor coverage.
+      This role was instrumental in bridging the gap between theoretical network science and the practical engineering constraints of interdependent infrastructure.
   - role: Senior Researcher
     org: IIT Gandhinagar
     start: 2018-07-18
     end: 2020-09-30
+    summary: |
+      As a <b>Senior Research</b> at <b>IIT Gandhinagar</b>, I spearheaded the development of high-fidelity computational models for <b>state estimation</b> and <b>leak localization</b> in <b>water distribution networks</b>.
+      My research focused on bridging the gap between hydraulic theory and data-driven analytics, utilizing pressure and flow measurements to identify anomalies in complex, large-scale systems.
+      <br><br>
+      I led the implementation of machine learning frameworks to enhance the accuracy of leak localization while optimizing sensor placement strategies.
+      My work at IITGN laid the mathematical foundation for my later doctoral research, specifically in establishing robust methodologies for monitoring cyber-physical systems under conditions of extreme data scarcity.
   - role: Graduate Teaching Fellow and Teaching Assistant
     org: IIT Gandhinagar
     start: 2018-07-18
@@ -166,8 +179,4 @@ awards:
       <br><br>
       I was awarded this honor for my pioneering work on <b>advanced estimation strategies for sparsely observed cyber-physical systems</b>.
       This recognition was due to my contributions to establishing situational awareness frameworks for smart grids and water networks, as well as my sustained record of <b>high-impact research published in top-tier international journals</b>.
-    button:
-      text: View award
-      url: /awards/iitm/kr-award.pdf
-      icon: hero/arrow-down-tray
     icon: hero/trophy
