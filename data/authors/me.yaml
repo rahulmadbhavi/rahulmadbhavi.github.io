@@ -56,12 +56,12 @@ education:
     start: 2018-07-23
     end: 2024-02-09
     summary: |
-      I conducted my doctoral research at IIT Madras, specializing in Advanced Estimation Strategies for Sparsely Observed Cyber-Physical Systems.
-      I pioneered the development of low-rank tensor completion frameworks and Graph Neural Network (GNN) equivalents to enable high-fidelity situational awareness in smart grids and water distribution networks, even under extreme conditions of low-observability and data scarcity.
+      I conducted my doctoral research at <b>IIT Madras</b>, specializing in <b>Advanced Estimation Strategies for Sparsely Observed Cyber-Physical Systems</b>.
+      I pioneered the development of <b>low-rank tensor completion frameworks</b> and <b>Graph Neural Network (GNN) equivalents</b> to enable high-fidelity situational awareness in smart grids and water distribution networks, even under extreme conditions of <b>low-observability</b> and <b>data scarcity</b>.
       <br><br>
-      My research introduced feature scaling and weighted tensor norms to optimize state estimation accuracy across diverse physical quantities, significantly reducing errors in voltage angle and magnitude estimation.
-      By architecting GNN-based estimators that learn system interdependencies without requiring prior knowledge of network parameters, I achieved computational speedups of several orders of magnitude while ensuring strict conformance with physical power flow constraints.
-      Furthermore, I extended these methodologies to solve critical infrastructure challenges, including topology identification via link prediction and machine-learning-based leak localization in water distribution networks.
+      My research introduced <b>feature scaling</b> and <b>weighted tensor norms</b> to optimize state estimation accuracy across diverse physical quantities, significantly <b>reducing errors in voltage angle and magnitude estimation</b>.
+      By architecting GNN-based estimators that learn system interdependencies without requiring prior knowledge of network parameters, I achieved <b>computational speedups of several orders of magnitude</b> while ensuring <b>strict conformance with physical power flow constraints</b>.
+      Furthermore, I extended these methodologies to solve critical infrastructure challenges, including <b>topology identification</b> via link prediction and <b>machine-learning-based leak localization</b> in water distribution networks.
     button:
       text: Download dissertation
       url: /research/phd/thesis/phd-thesis.pdf
