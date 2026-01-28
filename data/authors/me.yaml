@@ -107,14 +107,16 @@ experience:
     org: IIT Gandhinagar
     start: 2018-07-18
     end: 2020-09-30
-  - role: Graduate Teaching Fellow
-    org: IIT Gandhinagar
-    start: 2020-01-01
-    end: 2020-07-31
-  - role: Teaching Assistant
+  - role: Graduate Teaching Fellow and Teaching Assistant
     org: IIT Gandhinagar
     start: 2018-07-18
-    end: 2019-12-31
+    end: 2020-07-31
+    summary: |
+      I served as a <b>Graduate Teaching Fellow</b> and <b>Teaching Assistant</b> at <b>IIT Gandhinagar</b>, where I provided instructional leadership across a diverse engineering curriculum.
+      I led the instruction for <b>Introduction to Analog and Digital Electronics</b> for a large-scale batch of <b>180 students</b>, while also facilitating tutorials and laboratory sessions for <b>Introduction to Electrical Systems</b> and <b>Introduction to Computing</b>.
+      <br><br>
+      My pedagogical approach focused on bridging the gap between theoretical models and physical/simultion-based implementation, guiding students to translate abstract logic into hardware and software designs.
+      By managing high-enrollment cohorts, I refined my ability to communicate interdisciplinary concepts and provide technical mentorship.
   - role: Big Data Developer
     org: Wipro Technologies
     start: 2016-07-18
