@@ -164,3 +164,7 @@ awards:
       I was awarded this honor for my pioneering work on <b>advanced estimation strategies for sparsely observed cyber-physical systems</b>.
       This recognition was due to my contributions to establishing situational awareness frameworks for smart grids and water networks, as well as my sustained record of <b>high-impact research published in top-tier international journals</b>.
     icon: hero/trophy
+    button:
+      text: View award
+      url: /awards/iitm/kr-award.pdf
+      icon: hero/arrow-down-tray
