@@ -58,13 +58,13 @@ education:
     summary: |
       I conducted my doctoral research at IIT Madras, specializing in Advanced Estimation Strategies for Sparsely Observed Cyber-Physical Systems.
       I pioneered the development of low-rank tensor completion frameworks and Graph Neural Network (GNN) equivalents to enable high-fidelity situational awareness in smart grids and water distribution networks, even under extreme conditions of low-observability and data scarcity.
-      <br>
+      <br><br>
       My research introduced feature scaling and weighted tensor norms to optimize state estimation accuracy across diverse physical quantities, significantly reducing errors in voltage angle and magnitude estimation.
       By architecting GNN-based estimators that learn system interdependencies without requiring prior knowledge of network parameters, I achieved computational speedups of several orders of magnitude while ensuring strict conformance with physical power flow constraints.
       Furthermore, I extended these methodologies to solve critical infrastructure challenges, including topology identification via link prediction and machine-learning-based leak localization in water distribution networks.
     button:
       text: Download dissertation
-      url: /phd-thesis.pdf
+      url: /research/phd/thesis/phd-thesis.pdf
       icon: hero/arrow-down-tray
   - degree: BTech Mechanical Engineering
     institution: NIT Surathkal
