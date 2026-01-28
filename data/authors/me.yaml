@@ -51,7 +51,7 @@ interests:
   - Multi-domain Co-simulation
 
 education:
-  - degree: Dual Degree MS-PhD<br>Applied Mechanics and Biomedical Engineering
+  - degree: Dual Degree MS-PhD in Applied Mechanics and Biomedical Engineering
     institution: IIT Madras
     start: 2018-07-23
     end: 2024-02-09
@@ -66,7 +66,7 @@ education:
       text: Download dissertation
       url: /research/phd/thesis/phd-thesis.pdf
       icon: hero/arrow-down-tray
-  - degree: Bachelor of Technology<b>Mechanical Engineering
+  - degree: Bachelor of Technology in Mechanical Engineering
     institution: NIT Surathkal
     start: 2012-07-23
     end: 2016-05-31
@@ -119,6 +119,11 @@ experience:
     org: Wipro Technologies
     start: 2016-07-18
     end: 2017-05-19
+    summary: |
+      I served as a <b>Project Engineer</b> and <b>Big Data Developer</b> at <b>Wipro Technologies</b> in Bangalore, India, from July 2016 to June 2018.
+      My core responsibilities involved architecting <b>big data infrastructure solutions</b> to <b>enhance system scalability</b> and significantly <b>reduce deployment latency</b> for enterprise-scale applications.
+      I led the engineering of <b>automated DevOps pipelines</b> and utilized the <b>AWS ecosystem</b> to build highly resilient, distributed systems.
+      Additionally, I managed high-volume data pipelines specifically designed for the deployment of AI models, ensuring that complex computational frameworks could be scaled effectively in real-world production environments.
 
 skills:
   - name: Technical Skills
