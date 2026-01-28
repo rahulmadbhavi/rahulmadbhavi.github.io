@@ -10,7 +10,6 @@ name:
   pronouns: he/him
 postnominals:
   - PhD
-  - MIEEE
 status:
   icon: "☕️"
 role: Postdoctoral Researcher
@@ -21,8 +20,8 @@ bio: |
   while ensuring ethical development.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Kansas State University
+    url: https://ece.k-state.edu/research/communications/cpswin/
 
 links:
   - icon: at-symbol
